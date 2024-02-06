@@ -1,3 +1,3 @@
-# K-Homework_1
+# K-Projects and Homework
 
 This is an example Java project
